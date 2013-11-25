@@ -1,0 +1,5 @@
+Instructions on running the code:
+
+1. download and extract data.rar from http://www.filedropper.com/data_4
+2. run sametrain.m using the default number of test files (1)
+3. observe the results!
