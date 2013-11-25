@@ -8,4 +8,4 @@ which is to be matched through minimizing a cosine-distance. Also dimensionality
 through singular value decomposition is performed
 
 You can also shoot an eye on the assignment's report (written in Greek), svd-report.pdf,
-which is available for download on http://www.filedropper.com/svd-report and is also uploaded here.
+which is available for download on http://www.filedropper.com/svd-report.
